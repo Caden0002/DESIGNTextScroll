@@ -1,8 +1,16 @@
-# React + Vite
+![](https://github.com/Caden0002/DesignTextScroll/blob/main/DesignTextScroll.gif)
+#### How to Install and Run the Project ####
+1. Open Terminal at the project's CD<br />
+2. rm -rf node_modules && rm package-lock.json && npm install<br />
+3. npm run dev<br />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# DesignTextScroll
+Animate Reveal Letters on Scroll <br />
 
-Currently, two official plugins are available:
+Learn more about DesignTextScroll here:<br />
+https://medium.com/@caden0002/interactive-on-scroll-letters-animation-with-react-aeaab2dc727a
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack ##
+React<br />
+Tailwind<br />
+
